@@ -1,5 +1,14 @@
 # Pizza_Place_Sales
- I present a comprehensive analysis of a pizza dataset, offering valuable insights into customer preferences, sales patterns, and pizza variations. The dataset comprises multiple tables, including orders, order details, pizzas, and pizza types, which have been thoroughly analyzed to extract meaningful information.
+I present a comprehensive analysis of a pizza dataset, offering valuable insights into customer preferences, sales patterns, and pizza variations. 
+
+## About Project
+Power BI [Report](https://app.powerbi.com/view?r=eyJrIjoiYThhYzM4Y2UtMjcxNi00MDUyLTllOWMtOTA2ZGFlNWRlM2ZmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection8d1ec6e37ee2c8821c09)
+
+Powerpoint [Presentation](https://github.com/SSonwane26/Pizza_Place_Sales/blob/main/Presentation.pdf)
+
+Exploratory Data Analysis using [MySQL](https://github.com/SSonwane26/Pizza_Place_Sales/blob/main/MySQLscript.sql)
+
+ The dataset comprises multiple tables, including orders, order details, pizzas, and pizza types, which have been thoroughly analyzed to extract meaningful information.
  
 Through a rigorous analytical process, I have explored the dataset, cleaned the data, performed transformations, and visualized the findings. This analysis aims to provide a deeper understanding of the pizza business, enabling data-driven decision-making and strategic planning.
 
